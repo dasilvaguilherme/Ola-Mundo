@@ -14,4 +14,4 @@ Ano | Curso | Professor | Carga Horaria | Status
 * [Meu Instagram](https://www.instagram.com/opsguiihsilva_/?hl=pt-br)
 * [Meu Discord](dasilvaGuilherme#4018)
 ***
-![MyOctocat](https://octocat-generator-assets.githubusercontent.com/my-octocat-1623357449464.png)
+![MyOctocat](https://github.com/dasilvaguilherme/Ola-Mundo/blob/main/imagens-png/my-octocat-P.png)
