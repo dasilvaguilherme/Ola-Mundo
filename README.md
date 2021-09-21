@@ -17,6 +17,7 @@ Ano | Curso | Professor | Carga Horaria | Status
 :---: | ---: | :--- | :--- | :---:
 2021 |  Git & GitHub | Gustavo Guanabara | 20hrs | Concluido
 2021 | HTML+CSS+JS | Gustavo Guanabara | 40hrs | Cursando
+2021 | JavaScript | Gustavo Guanabara | 40hrs | Cursando
 2021 | Python - Mundo 1 | Gustavo Guanabara | 40hrs | Cursando
 2021 | Desenvolvimento básico em Java | André Luiz Gomes | 9hrs | Concluido
 2021 | Lógica de programação essencial | Denilson Bonatti | 4hrs | Concluido
